@@ -1,0 +1,25 @@
+Jamaica;44;19;15;44;17;0
+Estonia;44;25;7;31;5;47
+Nueva Zelanda;46;15;25;43;3;43
+Lituania;10;23;45;37;46;47
+Bielorrusia;18;2;17;4;21;13
+Republica Checa;7;40;5;25;34;6
+Cuba;3;49;24;20;46;11
+Puerto Rico;3;49;24;20;46;11
+Paraguay;1;47;48;31;29;25
+Brazil;37;8;2;16;7;5
+Espana;34;28;13;20;13;16
+Francia;9;23;49;39;45;15
+Alemania;40;45;27;37;29;1
+Ucrania;14;29;48;11;9;19
+Japon;37;42;7;41;11;48
+Taiwan;15;4;30;22;30;10
+Corea del sur;5;44;43;14;26;30
+Corea del norte;12;34;40;50;7;40
+Serbia;5;7;9;48;16;2
+Polonia;13;18;33;44;49;35
+Mexico;37;28;46;18;8;28
+Kazajistan;31;9;22;16;32;6
+Ecuador;28;7;26;14;20;24
+Peru;40;44;37;28;40;10
+Argentina;22;11;43;36;15;16
